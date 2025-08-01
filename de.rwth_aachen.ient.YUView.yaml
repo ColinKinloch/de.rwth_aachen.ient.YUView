@@ -45,3 +45,5 @@ modules:
         tag: 'v2.14'
         url: https://github.com/IENT/YUView.git
         commit: 22c1e305bef25b23850a2068dcef3fb165c3fd60
+      - type: patch
+        path: version_check.diff
